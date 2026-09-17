@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://github.com/equisdots/theme-sync/palettes/schema.json",
-    "title": "xscriptor palette",
+    "$id": "https://github.com/equisdots/palettes/schema.json",
+    "title": "equisdots palette",
     "description": "A palette file consumed by theme-sync. base16 colors plus optional background/foreground/role overrides.",
     "type": "object",
     "required": ["name", "slug", "base16"],
