@@ -12,7 +12,8 @@ Version: **0.1.0** · License: MIT
 | Path | Content |
 |---|---|
 | `*.json` | One palette per slug (`x.json`, `tokio.json`, …) |
-| `index.json` | Ordered list: slug + display name + 8 preview colors |
+| `community/` | Community palettes (base16 ports of well-known terminal themes) + `README.md` with full attribution and license notes |
+| `index.json` | Ordered list: slug + display name + 8 preview colors + `category` (`x` / `custom` / `user`) + optional `path` |
 | `schema.json` | Contract v1 (fields, hex format, roles) |
 | `tools/validate_palettes.py` | Validator (stdlib only) |
 
