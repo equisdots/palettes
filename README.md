@@ -20,7 +20,7 @@ Version: **0.1.0** · License: MIT
 ## Validate
 
 ```bash
-python3 tools/validate_palettes.py
+scripts/check.sh          # wrapper: python3 tools/validate_palettes.py
 ```
 
 Checks every palette against the contract and that `index.json` lists exactly
