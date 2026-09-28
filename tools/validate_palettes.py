@@ -102,7 +102,7 @@ def check_index(slugs: set) -> None:
 
 def main() -> int:
     slugs = set()
-    for path in sorted(PALETTES.glob("*.json")):
+    for path in sorted(PALETTES.rglob("*.json")):
         if path.name in ("index.json", "schema.json"):
             continue
         slug = check_palette(path)
