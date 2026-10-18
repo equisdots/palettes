@@ -1,0 +1,30 @@
+{
+    "name": "Cyberpunk Netrunner Mono Alt",
+    "slug": "cyberpunk-netrunner-mono-alt",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#07060c",
+        "color1": "#0066ff",
+        "color2": "#242432",
+        "color3": "#33334a",
+        "color4": "#46465e",
+        "color5": "#ff00c8",
+        "color6": "#6a6a82",
+        "color7": "#f0f0f5",
+        "color8": "#87878c",
+        "color9": "#0066ff",
+        "color10": "#242432",
+        "color11": "#33334a",
+        "color12": "#46465e",
+        "color13": "#ff00c8",
+        "color14": "#6a6a82",
+        "color15": "#f0f0f5"
+    },
+    "background": "#07060c",
+    "foreground": "#f0f0f5",
+    "roles": {
+        "workspaceActive": "#ff00c8",
+        "accent": "#0066ff",
+        "accent2": "#ff00c8"
+    }
+}

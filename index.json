@@ -2178,5 +2178,275 @@
    "#93e0e3",
    "#dcdccc"
   ]
+ },
+ {
+  "slug": "cyberpunk-night-city",
+  "name": "Cyberpunk Night City",
+  "category": "x",
+  "colors": [
+   "#05070a",
+   "#ff2a6d",
+   "#00ff9f",
+   "#fcee0a",
+   "#00b3ff",
+   "#bd00ff",
+   "#00f0ff",
+   "#f5f5f5"
+  ]
+ },
+ {
+  "slug": "cyberpunk-night-city-alt",
+  "name": "Cyberpunk Night City Alt",
+  "category": "x",
+  "colors": [
+   "#0d0010",
+   "#ff003c",
+   "#7bff00",
+   "#ffd300",
+   "#00d9ff",
+   "#ff00c8",
+   "#05d9e8",
+   "#f7f1ff"
+  ]
+ },
+ {
+  "slug": "cyberpunk-night-city-mono",
+  "name": "Cyberpunk Night City Mono",
+  "category": "x",
+  "colors": [
+   "#07070a",
+   "#fcee0a",
+   "#2a2a2e",
+   "#3a3a40",
+   "#4a4a52",
+   "#00f0ff",
+   "#6a6a72",
+   "#f5f5f5"
+  ]
+ },
+ {
+  "slug": "cyberpunk-night-city-mono-alt",
+  "name": "Cyberpunk Night City Mono Alt",
+  "category": "x",
+  "colors": [
+   "#08070a",
+   "#ff2a6d",
+   "#2a2a2e",
+   "#3a3a40",
+   "#4a4a52",
+   "#00b3ff",
+   "#6a6a72",
+   "#f0f0f5"
+  ]
+ },
+ {
+  "slug": "cyberpunk-arasaka",
+  "name": "Cyberpunk Arasaka",
+  "category": "x",
+  "colors": [
+   "#0a0506",
+   "#ff003c",
+   "#8a9a5b",
+   "#d4af37",
+   "#6c7a89",
+   "#a31621",
+   "#c0c0c0",
+   "#f2e9e4"
+  ]
+ },
+ {
+  "slug": "cyberpunk-arasaka-alt",
+  "name": "Cyberpunk Arasaka Alt",
+  "category": "x",
+  "colors": [
+   "#100608",
+   "#ff1e56",
+   "#b08d57",
+   "#ffd700",
+   "#7a8c99",
+   "#8b0000",
+   "#e0e0e0",
+   "#fff5f0"
+  ]
+ },
+ {
+  "slug": "cyberpunk-arasaka-mono",
+  "name": "Cyberpunk Arasaka Mono",
+  "category": "x",
+  "colors": [
+   "#080808",
+   "#ff003c",
+   "#2b2b2b",
+   "#3a3a3a",
+   "#4a4a4a",
+   "#d4af37",
+   "#6b6b6b",
+   "#f5f5f5"
+  ]
+ },
+ {
+  "slug": "cyberpunk-arasaka-mono-alt",
+  "name": "Cyberpunk Arasaka Mono Alt",
+  "category": "x",
+  "colors": [
+   "#0a0a0c",
+   "#ff1e56",
+   "#2b2b2b",
+   "#3a3a3a",
+   "#4a4a4a",
+   "#00e5ff",
+   "#6b6b6b",
+   "#f0f0f5"
+  ]
+ },
+ {
+  "slug": "cyberpunk-militech",
+  "name": "Cyberpunk Militech",
+  "category": "x",
+  "colors": [
+   "#050a05",
+   "#ff4d00",
+   "#00ff66",
+   "#b6ff00",
+   "#2e5e4e",
+   "#6b7a3a",
+   "#00ffc8",
+   "#d9e6d0"
+  ]
+ },
+ {
+  "slug": "cyberpunk-militech-alt",
+  "name": "Cyberpunk Militech Alt",
+  "category": "x",
+  "colors": [
+   "#0a0f08",
+   "#ffb000",
+   "#33ff77",
+   "#d4ff00",
+   "#4a6b5a",
+   "#7a8f3a",
+   "#00e0a0",
+   "#e8f5e0"
+  ]
+ },
+ {
+  "slug": "cyberpunk-militech-mono",
+  "name": "Cyberpunk Militech Mono",
+  "category": "x",
+  "colors": [
+   "#060806",
+   "#00ff66",
+   "#262a26",
+   "#343a34",
+   "#464e46",
+   "#b6ff00",
+   "#667066",
+   "#f5f5f5"
+  ]
+ },
+ {
+  "slug": "cyberpunk-militech-mono-alt",
+  "name": "Cyberpunk Militech Mono Alt",
+  "category": "x",
+  "colors": [
+   "#080a08",
+   "#ffb000",
+   "#262a26",
+   "#343a34",
+   "#464e46",
+   "#00ffc8",
+   "#667066",
+   "#f0f0f5"
+  ]
+ },
+ {
+  "slug": "cyberpunk-netrunner",
+  "name": "Cyberpunk Netrunner",
+  "category": "x",
+  "colors": [
+   "#05070f",
+   "#ff00c8",
+   "#00ffcc",
+   "#ffd319",
+   "#0066ff",
+   "#7a00ff",
+   "#00f0ff",
+   "#e6f7ff"
+  ]
+ },
+ {
+  "slug": "cyberpunk-netrunner-alt",
+  "name": "Cyberpunk Netrunner Alt",
+  "category": "x",
+  "colors": [
+   "#070510",
+   "#ff2a6d",
+   "#00ffa3",
+   "#fcee0a",
+   "#00b3ff",
+   "#b800ff",
+   "#00e5ff",
+   "#f0eaff"
+  ]
+ },
+ {
+  "slug": "cyberpunk-netrunner-mono",
+  "name": "Cyberpunk Netrunner Mono",
+  "category": "x",
+  "colors": [
+   "#06060e",
+   "#00f0ff",
+   "#242432",
+   "#33334a",
+   "#46465e",
+   "#7a00ff",
+   "#6a6a82",
+   "#f5f5f5"
+  ]
+ },
+ {
+  "slug": "cyberpunk-netrunner-mono-alt",
+  "name": "Cyberpunk Netrunner Mono Alt",
+  "category": "x",
+  "colors": [
+   "#07060c",
+   "#0066ff",
+   "#242432",
+   "#33334a",
+   "#46465e",
+   "#ff00c8",
+   "#6a6a82",
+   "#f0f0f5"
+  ]
+ },
+ {
+  "slug": "cyberpunk-samurai",
+  "name": "Cyberpunk Samurai",
+  "category": "x",
+  "colors": [
+   "#050505",
+   "#ff1e3c",
+   "#5a6b55",
+   "#ffd400",
+   "#3a5a8c",
+   "#8b1e3f",
+   "#d9d9d9",
+   "#f5f0e8"
+  ]
+ },
+ {
+  "slug": "cyberpunk-x",
+  "name": "Cyberpunk X",
+  "category": "x",
+  "colors": [
+   "#07070c",
+   "#fc618d",
+   "#7bd88f",
+   "#fce566",
+   "#5ad4e6",
+   "#948ae3",
+   "#a3f3ff",
+   "#f7f1ff"
+  ]
  }
 ]

@@ -1,0 +1,28 @@
+{
+    "name": "Cyberpunk Arasaka Alt",
+    "slug": "cyberpunk-arasaka-alt",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#100608",
+        "color1": "#ff1e56",
+        "color2": "#b08d57",
+        "color3": "#ffd700",
+        "color4": "#7a8c99",
+        "color5": "#8b0000",
+        "color6": "#e0e0e0",
+        "color7": "#fff5f0",
+        "color8": "#938988",
+        "color9": "#ff1e56",
+        "color10": "#b08d57",
+        "color11": "#ffd700",
+        "color12": "#7a8c99",
+        "color13": "#8b0000",
+        "color14": "#e0e0e0",
+        "color15": "#fff5f0"
+    },
+    "background": "#100608",
+    "foreground": "#fff5f0",
+    "roles": {
+        "workspaceActive": "#8b0000"
+    }
+}

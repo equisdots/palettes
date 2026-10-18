@@ -1,0 +1,28 @@
+{
+    "name": "Cyberpunk Arasaka",
+    "slug": "cyberpunk-arasaka",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#0a0506",
+        "color1": "#ff003c",
+        "color2": "#8a9a5b",
+        "color3": "#d4af37",
+        "color4": "#6c7a89",
+        "color5": "#a31621",
+        "color6": "#c0c0c0",
+        "color7": "#f2e9e4",
+        "color8": "#8a8280",
+        "color9": "#ff003c",
+        "color10": "#8a9a5b",
+        "color11": "#d4af37",
+        "color12": "#6c7a89",
+        "color13": "#a31621",
+        "color14": "#c0c0c0",
+        "color15": "#f2e9e4"
+    },
+    "background": "#0a0506",
+    "foreground": "#f2e9e4",
+    "roles": {
+        "workspaceActive": "#d4af37"
+    }
+}

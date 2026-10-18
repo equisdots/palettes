@@ -1,0 +1,28 @@
+{
+    "name": "Cyberpunk Netrunner",
+    "slug": "cyberpunk-netrunner",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#05070f",
+        "color1": "#ff00c8",
+        "color2": "#00ffcc",
+        "color3": "#ffd319",
+        "color4": "#0066ff",
+        "color5": "#7a00ff",
+        "color6": "#00f0ff",
+        "color7": "#e6f7ff",
+        "color8": "#818b93",
+        "color9": "#ff00c8",
+        "color10": "#00ffcc",
+        "color11": "#ffd319",
+        "color12": "#0066ff",
+        "color13": "#7a00ff",
+        "color14": "#00f0ff",
+        "color15": "#e6f7ff"
+    },
+    "background": "#05070f",
+    "foreground": "#e6f7ff",
+    "roles": {
+        "workspaceActive": "#ffd319"
+    }
+}

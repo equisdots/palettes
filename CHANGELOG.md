@@ -3,6 +3,11 @@
 All notable changes to the equisdots palette set are documented here.
 Dates use YYYY-MM-DD.
 
+## [2026-10-18]
+
+### Added
+- **Cyberpunk palettes**: 18 original built-in palettes under the `x` category — Night City, Arasaka, Militech and Netrunner (each with base, Alt, Mono and Mono Alt variants), plus Samurai and X. Mono variants keep a grayscale base with two signature accents.
+
 ## [2026-09-28]
 
 ### Added

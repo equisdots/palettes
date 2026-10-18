@@ -1,0 +1,30 @@
+{
+    "name": "Cyberpunk Militech Mono",
+    "slug": "cyberpunk-militech-mono",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#060806",
+        "color1": "#00ff66",
+        "color2": "#262a26",
+        "color3": "#343a34",
+        "color4": "#464e46",
+        "color5": "#b6ff00",
+        "color6": "#667066",
+        "color7": "#f5f5f5",
+        "color8": "#898a89",
+        "color9": "#00ff66",
+        "color10": "#262a26",
+        "color11": "#343a34",
+        "color12": "#464e46",
+        "color13": "#b6ff00",
+        "color14": "#667066",
+        "color15": "#f5f5f5"
+    },
+    "background": "#060806",
+    "foreground": "#f5f5f5",
+    "roles": {
+        "workspaceActive": "#00ff66",
+        "accent": "#00ff66",
+        "accent2": "#b6ff00"
+    }
+}

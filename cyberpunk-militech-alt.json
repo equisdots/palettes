@@ -1,0 +1,28 @@
+{
+    "name": "Cyberpunk Militech Alt",
+    "slug": "cyberpunk-militech-alt",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#0a0f08",
+        "color1": "#ffb000",
+        "color2": "#33ff77",
+        "color3": "#d4ff00",
+        "color4": "#4a6b5a",
+        "color5": "#7a8f3a",
+        "color6": "#00e0a0",
+        "color7": "#e8f5e0",
+        "color8": "#848e7f",
+        "color9": "#ffb000",
+        "color10": "#33ff77",
+        "color11": "#d4ff00",
+        "color12": "#4a6b5a",
+        "color13": "#7a8f3a",
+        "color14": "#00e0a0",
+        "color15": "#e8f5e0"
+    },
+    "background": "#0a0f08",
+    "foreground": "#e8f5e0",
+    "roles": {
+        "workspaceActive": "#7a8f3a"
+    }
+}

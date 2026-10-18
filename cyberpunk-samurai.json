@@ -1,0 +1,30 @@
+{
+    "name": "Cyberpunk Samurai",
+    "slug": "cyberpunk-samurai",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#050505",
+        "color1": "#ff1e3c",
+        "color2": "#5a6b55",
+        "color3": "#ffd400",
+        "color4": "#3a5a8c",
+        "color5": "#8b1e3f",
+        "color6": "#d9d9d9",
+        "color7": "#f5f0e8",
+        "color8": "#898682",
+        "color9": "#ff1e3c",
+        "color10": "#5a6b55",
+        "color11": "#ffd400",
+        "color12": "#3a5a8c",
+        "color13": "#8b1e3f",
+        "color14": "#d9d9d9",
+        "color15": "#f5f0e8"
+    },
+    "background": "#050505",
+    "foreground": "#f5f0e8",
+    "roles": {
+        "workspaceActive": "#ff1e3c",
+        "accent": "#ff1e3c",
+        "accent2": "#ffd400"
+    }
+}
