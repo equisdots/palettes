@@ -1,0 +1,28 @@
+{
+    "name": "Cyberpunk Netrunner Alt",
+    "slug": "cyberpunk-netrunner-alt",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#070510",
+        "color1": "#ff2a6d",
+        "color2": "#00ffa3",
+        "color3": "#fcee0a",
+        "color4": "#00b3ff",
+        "color5": "#b800ff",
+        "color6": "#00e5ff",
+        "color7": "#f0eaff",
+        "color8": "#878393",
+        "color9": "#ff2a6d",
+        "color10": "#00ffa3",
+        "color11": "#fcee0a",
+        "color12": "#00b3ff",
+        "color13": "#b800ff",
+        "color14": "#00e5ff",
+        "color15": "#f0eaff"
+    },
+    "background": "#070510",
+    "foreground": "#f0eaff",
+    "roles": {
+        "workspaceActive": "#b800ff"
+    }
+}

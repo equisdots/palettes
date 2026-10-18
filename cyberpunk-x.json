@@ -1,0 +1,28 @@
+{
+    "name": "Cyberpunk X",
+    "slug": "cyberpunk-x",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#07070c",
+        "color1": "#fc618d",
+        "color2": "#7bd88f",
+        "color3": "#fce566",
+        "color4": "#5ad4e6",
+        "color5": "#948ae3",
+        "color6": "#a3f3ff",
+        "color7": "#f7f1ff",
+        "color8": "#8b8892",
+        "color9": "#fc618d",
+        "color10": "#7bd88f",
+        "color11": "#fce566",
+        "color12": "#5ad4e6",
+        "color13": "#948ae3",
+        "color14": "#a3f3ff",
+        "color15": "#f7f1ff"
+    },
+    "background": "#07070c",
+    "foreground": "#f7f1ff",
+    "roles": {
+        "workspaceActive": "#eab308"
+    }
+}

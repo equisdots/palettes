@@ -1,0 +1,30 @@
+{
+    "name": "Cyberpunk Militech Mono Alt",
+    "slug": "cyberpunk-militech-mono-alt",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#080a08",
+        "color1": "#ffb000",
+        "color2": "#262a26",
+        "color3": "#343a34",
+        "color4": "#464e46",
+        "color5": "#00ffc8",
+        "color6": "#667066",
+        "color7": "#f0f0f5",
+        "color8": "#88888a",
+        "color9": "#ffb000",
+        "color10": "#262a26",
+        "color11": "#343a34",
+        "color12": "#464e46",
+        "color13": "#00ffc8",
+        "color14": "#667066",
+        "color15": "#f0f0f5"
+    },
+    "background": "#080a08",
+    "foreground": "#f0f0f5",
+    "roles": {
+        "workspaceActive": "#ffb000",
+        "accent": "#ffb000",
+        "accent2": "#00ffc8"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Cyberpunk Night City Mono Alt",
+    "slug": "cyberpunk-night-city-mono-alt",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#08070a",
+        "color1": "#ff2a6d",
+        "color2": "#2a2a2e",
+        "color3": "#3a3a40",
+        "color4": "#4a4a52",
+        "color5": "#00b3ff",
+        "color6": "#6a6a72",
+        "color7": "#f0f0f5",
+        "color8": "#88878b",
+        "color9": "#ff2a6d",
+        "color10": "#2a2a2e",
+        "color11": "#3a3a40",
+        "color12": "#4a4a52",
+        "color13": "#00b3ff",
+        "color14": "#6a6a72",
+        "color15": "#f0f0f5"
+    },
+    "background": "#08070a",
+    "foreground": "#f0f0f5",
+    "roles": {
+        "workspaceActive": "#ff2a6d",
+        "accent": "#ff2a6d",
+        "accent2": "#00b3ff"
+    }
+}

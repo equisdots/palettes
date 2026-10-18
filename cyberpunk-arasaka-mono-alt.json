@@ -1,0 +1,30 @@
+{
+    "name": "Cyberpunk Arasaka Mono Alt",
+    "slug": "cyberpunk-arasaka-mono-alt",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#0a0a0c",
+        "color1": "#ff1e56",
+        "color2": "#2b2b2b",
+        "color3": "#3a3a3a",
+        "color4": "#4a4a4a",
+        "color5": "#00e5ff",
+        "color6": "#6b6b6b",
+        "color7": "#f0f0f5",
+        "color8": "#88888c",
+        "color9": "#ff1e56",
+        "color10": "#2b2b2b",
+        "color11": "#3a3a3a",
+        "color12": "#4a4a4a",
+        "color13": "#00e5ff",
+        "color14": "#6b6b6b",
+        "color15": "#f0f0f5"
+    },
+    "background": "#0a0a0c",
+    "foreground": "#f0f0f5",
+    "roles": {
+        "workspaceActive": "#00e5ff",
+        "accent": "#ff1e56",
+        "accent2": "#00e5ff"
+    }
+}

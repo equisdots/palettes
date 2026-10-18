@@ -1,0 +1,30 @@
+{
+    "name": "Cyberpunk Netrunner Mono",
+    "slug": "cyberpunk-netrunner-mono",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#06060e",
+        "color1": "#00f0ff",
+        "color2": "#242432",
+        "color3": "#33334a",
+        "color4": "#46465e",
+        "color5": "#7a00ff",
+        "color6": "#6a6a82",
+        "color7": "#f5f5f5",
+        "color8": "#89898d",
+        "color9": "#00f0ff",
+        "color10": "#242432",
+        "color11": "#33334a",
+        "color12": "#46465e",
+        "color13": "#7a00ff",
+        "color14": "#6a6a82",
+        "color15": "#f5f5f5"
+    },
+    "background": "#06060e",
+    "foreground": "#f5f5f5",
+    "roles": {
+        "workspaceActive": "#00f0ff",
+        "accent": "#00f0ff",
+        "accent2": "#7a00ff"
+    }
+}

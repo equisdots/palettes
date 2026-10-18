@@ -1,0 +1,28 @@
+{
+    "name": "Cyberpunk Militech",
+    "slug": "cyberpunk-militech",
+    "author": "xscriptor",
+    "base16": {
+        "color0": "#050a05",
+        "color1": "#ff4d00",
+        "color2": "#00ff66",
+        "color3": "#b6ff00",
+        "color4": "#2e5e4e",
+        "color5": "#6b7a3a",
+        "color6": "#00ffc8",
+        "color7": "#d9e6d0",
+        "color8": "#7a8375",
+        "color9": "#ff4d00",
+        "color10": "#00ff66",
+        "color11": "#b6ff00",
+        "color12": "#2e5e4e",
+        "color13": "#6b7a3a",
+        "color14": "#00ffc8",
+        "color15": "#d9e6d0"
+    },
+    "background": "#050a05",
+    "foreground": "#d9e6d0",
+    "roles": {
+        "workspaceActive": "#b6ff00"
+    }
+}
