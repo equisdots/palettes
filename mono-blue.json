@@ -1,0 +1,28 @@
+{
+  "name": "Mono Blue",
+  "slug": "mono-blue",
+  "author": "xscriptor",
+  "base16": {
+    "color0": "#000000",
+    "color1": "#5482de",
+    "color2": "#8dace9",
+    "color3": "#c7d6f4",
+    "color4": "#366cd9",
+    "color5": "#7298e4",
+    "color6": "#a9c0ef",
+    "color7": "#e1e9f9",
+    "color8": "#214fab",
+    "color9": "#5482de",
+    "color10": "#8dace9",
+    "color11": "#c7d6f4",
+    "color12": "#366cd9",
+    "color13": "#7298e4",
+    "color14": "#a9c0ef",
+    "color15": "#e1e9f9"
+  },
+  "background": "#000000",
+  "foreground": "#a9c0ef",
+  "roles": {
+    "workspaceActive": "#214fab"
+  }
+}

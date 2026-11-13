@@ -1,0 +1,28 @@
+{
+  "name": "Mono Pink",
+  "slug": "mono-pink",
+  "author": "xscriptor",
+  "base16": {
+    "color0": "#000000",
+    "color1": "#d85a99",
+    "color2": "#e592bb",
+    "color3": "#f2c9de",
+    "color4": "#d13d87",
+    "color5": "#df77ab",
+    "color6": "#ecaccc",
+    "color7": "#f8e2ed",
+    "color8": "#a52766",
+    "color9": "#d85a99",
+    "color10": "#e592bb",
+    "color11": "#f2c9de",
+    "color12": "#d13d87",
+    "color13": "#df77ab",
+    "color14": "#ecaccc",
+    "color15": "#f8e2ed"
+  },
+  "background": "#000000",
+  "foreground": "#ecaccc",
+  "roles": {
+    "workspaceActive": "#a52766"
+  }
+}

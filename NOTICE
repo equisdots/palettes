@@ -6,4 +6,6 @@ This repository is licensed under the GNU Affero General Public License, version
 
 Releases published before 2026-11-13 were distributed under the MIT License and remain available under those terms.
 
-Third-party components, fonts, icons, images, sounds, vendored code and other assets keep their original licenses and are not covered by this license. See THIRD-PARTY.md / CREDITS.md where present.
+Third-party components, fonts, icons, images, sounds, vendored code and other assets keep their original licenses and are not covered by this license. See ATTRIBUTION.md.
+
+Scope exception: the community palettes under community/ are third-party works. They are not licensed under the AGPL, remain attributable to their original authors, and may be corrected, replaced, or removed at any time, including on request by the author or rights holder. See ATTRIBUTION.md and community/README.md.

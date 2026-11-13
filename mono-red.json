@@ -1,0 +1,28 @@
+{
+  "name": "Mono Red",
+  "slug": "mono-red",
+  "author": "xscriptor",
+  "base16": {
+    "color0": "#000000",
+    "color1": "#e05252",
+    "color2": "#eb8c8c",
+    "color3": "#f5c7c7",
+    "color4": "#db3333",
+    "color5": "#e67070",
+    "color6": "#f0a8a8",
+    "color7": "#fae1e1",
+    "color8": "#ad1f1f",
+    "color9": "#e05252",
+    "color10": "#eb8c8c",
+    "color11": "#f5c7c7",
+    "color12": "#db3333",
+    "color13": "#e67070",
+    "color14": "#f0a8a8",
+    "color15": "#fae1e1"
+  },
+  "background": "#000000",
+  "foreground": "#f0a8a8",
+  "roles": {
+    "workspaceActive": "#ad1f1f"
+  }
+}

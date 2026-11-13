@@ -1,7 +1,7 @@
 {
   "name": "Seti UI",
   "slug": "seti",
-  "author": "",
+  "author": "Unknown (upstream base16 Seti UI scheme)",
   "background": "#151718",
   "foreground": "#d6d6d6",
   "base16": {

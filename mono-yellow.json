@@ -1,0 +1,28 @@
+{
+  "name": "Mono Yellow",
+  "slug": "mono-yellow",
+  "author": "xscriptor",
+  "base16": {
+    "color0": "#000000",
+    "color1": "#f0e142",
+    "color2": "#f5eb82",
+    "color3": "#faf5c2",
+    "color4": "#eddc21",
+    "color5": "#f2e663",
+    "color6": "#f7f0a1",
+    "color7": "#fcfade",
+    "color8": "#bdae0f",
+    "color9": "#f0e142",
+    "color10": "#f5eb82",
+    "color11": "#faf5c2",
+    "color12": "#eddc21",
+    "color13": "#f2e663",
+    "color14": "#f7f0a1",
+    "color15": "#fcfade"
+  },
+  "background": "#000000",
+  "foreground": "#f7f0a1",
+  "roles": {
+    "workspaceActive": "#bdae0f"
+  }
+}

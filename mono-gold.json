@@ -1,0 +1,28 @@
+{
+  "name": "Mono Gold",
+  "slug": "mono-gold",
+  "author": "xscriptor",
+  "base16": {
+    "color0": "#000000",
+    "color1": "#e6b84c",
+    "color2": "#eed089",
+    "color3": "#f7e8c5",
+    "color4": "#e1ab2d",
+    "color5": "#eac46c",
+    "color6": "#f2dba6",
+    "color7": "#fbf3e0",
+    "color8": "#b38519",
+    "color9": "#e6b84c",
+    "color10": "#eed089",
+    "color11": "#f7e8c5",
+    "color12": "#e1ab2d",
+    "color13": "#eac46c",
+    "color14": "#f2dba6",
+    "color15": "#fbf3e0"
+  },
+  "background": "#000000",
+  "foreground": "#f2dba6",
+  "roles": {
+    "workspaceActive": "#b38519"
+  }
+}
