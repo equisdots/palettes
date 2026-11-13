@@ -180,6 +180,96 @@
   "category": "x"
  },
  {
+  "slug": "mono-red",
+  "name": "Mono Red",
+  "colors": [
+   "#000000",
+   "#e05252",
+   "#eb8c8c",
+   "#f5c7c7",
+   "#db3333",
+   "#e67070",
+   "#f0a8a8",
+   "#fae1e1"
+  ],
+  "category": "x"
+ },
+ {
+  "slug": "mono-green",
+  "name": "Mono Green",
+  "colors": [
+   "#000000",
+   "#61d17d",
+   "#96e1a9",
+   "#ccf0d5",
+   "#45c966",
+   "#7dd994",
+   "#b0e8be",
+   "#e3f7e8"
+  ],
+  "category": "x"
+ },
+ {
+  "slug": "mono-blue",
+  "name": "Mono Blue",
+  "colors": [
+   "#000000",
+   "#5482de",
+   "#8dace9",
+   "#c7d6f4",
+   "#366cd9",
+   "#7298e4",
+   "#a9c0ef",
+   "#e1e9f9"
+  ],
+  "category": "x"
+ },
+ {
+  "slug": "mono-yellow",
+  "name": "Mono Yellow",
+  "colors": [
+   "#000000",
+   "#f0e142",
+   "#f5eb82",
+   "#faf5c2",
+   "#eddc21",
+   "#f2e663",
+   "#f7f0a1",
+   "#fcfade"
+  ],
+  "category": "x"
+ },
+ {
+  "slug": "mono-pink",
+  "name": "Mono Pink",
+  "colors": [
+   "#000000",
+   "#d85a99",
+   "#e592bb",
+   "#f2c9de",
+   "#d13d87",
+   "#df77ab",
+   "#ecaccc",
+   "#f8e2ed"
+  ],
+  "category": "x"
+ },
+ {
+  "slug": "mono-gold",
+  "name": "Mono Gold",
+  "colors": [
+   "#000000",
+   "#e6b84c",
+   "#eed089",
+   "#f7e8c5",
+   "#e1ab2d",
+   "#eac46c",
+   "#f2dba6",
+   "#fbf3e0"
+  ],
+  "category": "x"
+ },
+ {
   "slug": "3024",
   "name": "3024",
   "category": "custom",

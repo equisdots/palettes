@@ -1,0 +1,28 @@
+{
+  "name": "Mono Green",
+  "slug": "mono-green",
+  "author": "xscriptor",
+  "base16": {
+    "color0": "#000000",
+    "color1": "#61d17d",
+    "color2": "#96e1a9",
+    "color3": "#ccf0d5",
+    "color4": "#45c966",
+    "color5": "#7dd994",
+    "color6": "#b0e8be",
+    "color7": "#e3f7e8",
+    "color8": "#2e9e4a",
+    "color9": "#61d17d",
+    "color10": "#96e1a9",
+    "color11": "#ccf0d5",
+    "color12": "#45c966",
+    "color13": "#7dd994",
+    "color14": "#b0e8be",
+    "color15": "#e3f7e8"
+  },
+  "background": "#000000",
+  "foreground": "#b0e8be",
+  "roles": {
+    "workspaceActive": "#2e9e4a"
+  }
+}

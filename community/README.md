@@ -3,8 +3,33 @@
 Color schemes based on well-known terminal themes, converted to the
 equisdots palette format from the **base16** scheme definitions collected by
 the [tinted-theming](https://github.com/tinted-theming) project
-(`base16-schemes` and `schemes`, MIT licensed). Each file keeps its original
-scheme name and author attribution in the `author` field.
+(`base16-schemes` and `schemes`). Each file keeps its original scheme name and
+author attribution in the `author` field; these palettes are **not** relicensed
+by this repository.
+
+The upstream collections are MIT unless an individual scheme states otherwise;
+the schemes remain © their authors.
+
+## License scope and attribution
+
+These community palettes are **not** part of the AGPL-3.0-or-later license that
+covers the original `equisdots/palettes` work (code, schema, tooling,
+documentation and the base `x` palettes). They are third-party ports included
+only as color references.
+
+- They remain attributable to their original authors, as listed in the table
+  below and in each palette's `author` field.
+- Names and trademarks belong to their respective authors/projects; no
+  affiliation or endorsement is implied.
+- This repository does not claim ownership of these palettes and does not
+  relicense them.
+
+## Removal and correction requests
+
+Any community palette can be corrected, replaced, or removed at any time,
+without notice, including immediately at the request of its author or rights
+holder. Contact x@xscriptor.com or open an issue in `equisdots/palettes` with
+the palette slug/file.
 
 Notes:
 - These palettes are included as color references only. All names and
@@ -122,7 +147,7 @@ Notes:
 | selenized-dark (dark) | `selenized-dark.json` | Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali |
 | selenized-light (light) | `selenized-light.json` | Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali |
 | selenized-white (light) | `selenized-white.json` | Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali |
-| Seti UI | `seti.json` | — |
+| Seti UI | `seti.json` | Unknown (upstream scheme declares no author) |
 | Silk Dark (dark) | `silk-dark.json` | Gabriel Fontes (https://github.com/Misterio77) |
 | Silk Light (light) | `silk-light.json` | Gabriel Fontes (https://github.com/Misterio77) |
 | Solarized Dark | `solarized-dark.json` | Ethan Schoonover (modified by aramisgithub) |
@@ -150,4 +175,11 @@ Notes:
 | Zenburn | `zenburn.json` | elnawe |
 
 Sources: https://github.com/tinted-theming/base16-schemes and
-https://github.com/tinted-theming/schemes (MIT; schemes © their authors).
+https://github.com/tinted-theming/schemes (MIT unless an individual scheme
+states otherwise; schemes © their authors).
+
+`Seti UI` is marked unknown because the upstream scheme does not declare an
+author; if you are its author, contact us for correction or removal.
+
+Removal/correction requests: x@xscriptor.com or an issue in
+`equisdots/palettes` with the palette slug/file.

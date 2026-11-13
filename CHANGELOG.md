@@ -3,6 +3,14 @@
 All notable changes to the equisdots palette set are documented here.
 Dates use YYYY-MM-DD.
 
+## [2026-11-13]
+
+### Added
+- **Monochrome base palettes**: `Mono Red`, `Mono Green`, `Mono Blue`, `Mono Yellow`, `Mono Pink` and `Mono Gold` (`category: x`). Each is a Berlin-style black-background palette where the neutral/accent scale is replaced by variations of one hue (red, green, blue, yellow, pink or gold). Existing palettes were not modified.
+
+### Changed
+- **License scope and attribution**: the original code/tooling/docs and the 36 base `x` palettes remain AGPL-3.0-or-later; the 125 `community/` palettes are explicitly excluded as third-party works, remain attributed to their authors, and can be corrected or removed at any time on request. Added `ATTRIBUTION.md` and updated `README.md`, `NOTICE` and `community/README.md`.
+
 ## [2026-10-18]
 
 ### Added
